@@ -1,0 +1,1 @@
+This project presents the results of a collocation analysis of colonial texts written by Bartolomé de las Casas and Peter Martyr d'Anghiera. The analysis was conducted explore contradictions in the descriptions of Indigenous peoples by the two authors. It is part of a larger project exploring colonial discourse and language use.
